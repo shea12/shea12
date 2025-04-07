@@ -23,11 +23,7 @@ I'm Caroline, an experienced software developer specializing in building and mai
 
 ### 💻 I'm currently hacking on:
 
-A mobile app that I've wanted to make for a while. The working name is Stacks and it is for personal library management, think: "be your own librarian" in an app.
-
-Stacks is built with React Native, Expo, and Typescript and is supported by a REST API built with Node and Express hooked up to a Firestore database.
-
-The app design was inspired by one of my favorite iOS apps, [Copilot Money](https://copilot.money). I love the bright, clear interface and joyful use of colors and emojis.
+A mobile app that I've wanted to make for a while. The working name is Stacks and it is for personal library management, think: "be your own librarian" in an app. Stacks is built with React Native, Expo, and Typescript and is supported by a REST API built with Node and Express hooked up to a Firestore database. The app design was inspired by one of my favorite iOS apps, [Copilot Money](https://copilot.money). I love the bright, clear interface and joyful use of colors and emojis.
 
 Stacks is currently a WIP, coming soon to app stores near you.
 
