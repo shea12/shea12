@@ -2,7 +2,7 @@
 
 I'm Caroline, an experienced software developer specializing in building and maintaining mobile apps.
 
-### 🦾 Skills I've honed:
+### 🦾 Skills:
 
 ![Typescript](https://img.shields.io/badge/-TS-000000?logo=typescript)
 ![Javascript](https://img.shields.io/badge/-JS-000000?logo=javascript)
@@ -23,7 +23,7 @@ I'm Caroline, an experienced software developer specializing in building and mai
 
 ### 💻 I'm currently hacking on:
 
-A mobile app that I've wanted to make for a while. The working name is Stacks and it is for personal library management, think: "be your own librarian" in an app. My best friend, who happens to be a librarian might disagree with that branding considering her work involves much more than scanning barcodes, making tags, and lending out books but ya know, ya gotta start somewhere.
+A mobile app that I've wanted to make for a while. The working name is Stacks and it is for personal library management, think: "be your own librarian" in an app.
 
 Stacks is built with React Native, Expo, and Typescript and is supported by a REST API built with Node and Express hooked up to a Firestore database.
 
@@ -33,11 +33,11 @@ Stacks is currently a WIP, coming soon to app stores near you.
 
 ### 📝 I'm also working on:
 
-Finding my next software development role! I left my last position in the fall of 2024 and took some time to travel, read, recharge, and generally just do all sorts of things that working full time makes difficult. I love hiking, canoeing, and backpacking and spent many days last fall exploring the Catskills and Adirondacks and even earned the _very prestigious_ [Catskill Firetower Challenge](https://dec.ny.gov/things-to-do/hiking/catskills-fire-tower-challenge) badge last year.
+Finding my next software development role! I left my last position in the fall of 2024 and took some time to travel, read, and recharge. I love hiking, canoeing, and backpacking and spent many days last fall exploring the Catskills and Adirondacks and even earned the _very prestigious_ [Catskill Firetower Challenge](https://dec.ny.gov/things-to-do/hiking/catskills-fire-tower-challenge) badge last year.
 
-### Ask me about:
+### 🌭 Ask me about:
 
-Software development, React Native, fighting with the App Store, building a mobile point-of-sale system, working for the Library of Congress, creating maps, anything you want. Above all though, ask about my mini dachshund, Sunny because she's my pride and joy.
+Software development, React Native, arguing with the App Store, building a mobile point-of-sale system, working with the Library of Congress, creating maps, anything you want. Above all though, ask about my mini dachshund, Sunny because she's my pride and joy.
 
 <!--
 **shea12/shea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
