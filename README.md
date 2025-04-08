@@ -23,17 +23,7 @@ I'm Caroline, an experienced software developer specializing in building and mai
 
 ### 💻 I'm currently hacking on:
 
-A mobile app that I've wanted to make for a while. The working name is Stacks and it is for personal library management, think: "be your own librarian" in an app. Stacks is built with React Native, Expo, and Typescript and is supported by a REST API built with Node and Express hooked up to a Firestore database. The app design was inspired by one of my favorite iOS apps, [Copilot Money](https://copilot.money). I love the bright, clear interface and joyful use of colors and emojis.
-
-Stacks is currently a WIP, coming soon to app stores near you.
-
-### 📝 I'm also working on:
-
-Finding my next software development role! I left my last position in the fall of 2024 and took some time to travel, read, and recharge. I love hiking, canoeing, and backpacking and spent many days last fall exploring the Catskills and Adirondacks and even earned the _very prestigious_ [Catskill Firetower Challenge](https://dec.ny.gov/things-to-do/hiking/catskills-fire-tower-challenge) badge last year.
-
-### 🌭 Ask me about:
-
-Software development, React Native, arguing with the App Store, building a mobile point-of-sale system, working with the Library of Congress, creating maps, anything you want. Above all though, ask about my mini dachshund, Sunny because she's my pride and joy.
+A personal library management app. The working name is Stacks and it is built with React Native, Expo, and Typescript and is supported by a REST API built with Node and Express hooked up to a Firestore database. Stacks has a bright, clear interface and makes ample use of colors and emojis. It is currently a WIP, coming someday to app stores near you. 
 
 <!--
 **shea12/shea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
